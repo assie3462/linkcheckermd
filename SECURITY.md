@@ -39,3 +39,10 @@ We prefer all communications to be in English.
 Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://aka.ms/opensource/security/cvd).
 
 <!-- END MICROSOFT SECURITY.MD BLOCK -->
+
+## Related Markdown files
+
+- [LICENSE.md](LICENSE.md)
+- [README.md](README.md)
+- [testfile.md](test/testfile.md)
+- [virtual-machines-linux-opensource.md](test/virtual-machines-linux-opensource.md)

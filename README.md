@@ -42,3 +42,32 @@ To check for broken links, use Alt+L. This will open a new column to the right o
 
 * Refactor broken link checking to display the actual URL that you arrived at for "OK" results that were redirects to a different URL.
 
+## Project files
+
+### Documentation
+
+- [LICENSE.md](LICENSE.md)
+- [SECURITY.md](SECURITY.md)
+
+### Source and configuration
+
+- [extension.ts](extension.ts)
+- [package.json](package.json)
+- [package-lock.json](package-lock.json)
+- [tsconfig.json](tsconfig.json)
+- [.gitignore](.gitignore)
+- [.vscodeignore](.vscodeignore)
+- [VS Code launch configuration](.vscode/launch.json)
+- [VS Code settings](.vscode/settings.json)
+- [VS Code tasks](.vscode/tasks.json)
+
+### Images
+
+- [Working demo](images/working.gif)
+- [Installation demo](images/install.gif)
+- [Extension icon](images/linkcheckermdicon.png)
+
+### Tests
+
+- [Link checker test document](test/testfile.md)
+- [Virtual machines link test document](test/virtual-machines-linux-opensource.md)
